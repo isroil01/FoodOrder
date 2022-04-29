@@ -22,3 +22,16 @@
       transform: translateY(0);
     }
   }
+
+  .loading{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+  }
+  .Httperror{
+    text-align: center;
+    color: red;
+    font-size: 25px;
+    font-weight: bold;
+  }
